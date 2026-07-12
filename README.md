@@ -1,5 +1,7 @@
 <div align="center">
   https://azarkazar.github.io/mohamed-azar-portfolio/
+
+  
 # ⚡ MOHAMED AZARUDEEN ALLABAKSH ⚡
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Level+25+Data+Science+Archmage;AI+%26+ML+Engineering+Architect;Intelligent+Automation+Specialist;Battle-Tested+Problem+Solver)](https://git.io/typing-svg)
