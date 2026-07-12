@@ -18,7 +18,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/mohamedazarudeen?style=for-the-badge&logo=github&color=9644F4)](https://github.com/AzaRKazar/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedallabaksh/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedazarude.allabaksh@stonybrook.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react&logoColor=white)](https://azarkazar.github.io/mohamed-azar-portfolio/)
+
 
 </div>
 
