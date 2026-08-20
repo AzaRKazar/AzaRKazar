@@ -18,6 +18,16 @@ I build AI systems **end to end** — the pipeline, the model integration, the A
 
 <br>
 
+### `00` — THE PORTFOLIO
+
+<a href="https://azarkazar.github.io/mohamed-azar-portfolio/">
+  <img src="assets/portfolio-scroll.gif" alt="Scroll-through of the cinematic portfolio — click to visit the live site" width="100%">
+</a>
+
+<sub>SCROLL-DRIVEN FILM REELS · BUILT WITH VANILLA HTML/CSS/JS · CLICK TO ENTER — [azarkazar.github.io/mohamed-azar-portfolio](https://azarkazar.github.io/mohamed-azar-portfolio/)</sub>
+
+<br>
+
 ### `01` — SELECTED SYSTEMS
 
 <table>
