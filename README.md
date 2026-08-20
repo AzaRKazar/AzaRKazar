@@ -1,333 +1,86 @@
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react&logoColor=white)](https://azarkazar.github.io/mohamed-azar-portfolio/)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" alt="Mohamed Azarudeen — Software Engineer & AI Systems Builder">
+</picture>
 
-  
-# ⚡ MOHAMED AZARUDEEN ALLABAKSH ⚡
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Level+25+Data+Science+Archmage;AI+%26+ML+Engineering+Architect;Intelligent+Automation+Specialist;Battle-Tested+Problem+Solver)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&letterSpacing=2px&duration=2600&pause=900&color=FF4D00&background=00000000&vCenter=true&width=700&height=28&lines=SOFTWARE+ENGINEER+%26+AI+SYSTEMS+BUILDER;LOCAL-FIRST+LLMs+%C2%B7+AGENTS+%C2%B7+RAG+%C2%B7+MCP;QLoRA+FINE-TUNING+%C2%B7+SMALL+MODELS+%C2%B7+MLFLOW;END-TO-END%3A+PIPELINE+%C2%B7+API+%C2%B7+INTERFACE" alt="Software Engineer & AI Systems Builder — local-first LLMs, agents, RAG, fine-tuning">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO%20↗-ff4d00?style=flat-square&labelColor=ff4d00)](https://azarkazar.github.io/mohamed-azar-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0b?style=flat-square)](https://www.linkedin.com/in/mohamedallabaksh/)
+[![Email](https://img.shields.io/badge/EMAIL-0a0a0b?style=flat-square&logo=gmail&logoColor=ff4d00)](mailto:azarudeen.allabaksh@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=AzaRKazar&label=PROFILE+VIEWS&style=flat-square&color=ff4d00)
 
-</div>
+I build AI systems **end to end** — the pipeline, the model integration, the API, and the interface it all lives in. The through-line in my work is **local-first AI**: agents, RAG with cited sources, and fine-tuned small models that run where the user lives, not in someone else's cloud.
 
-<div align="center">
-  
-## 🔮 Conjuring Intelligence from Data Chaos 🔮
+<sub>MS COMPUTER SCIENCE @ STONY BROOK UNIVERSITY (AUG 2024 — MAY 2026) · RESEARCH & STUDENT ASSISTANT · NEW YORK</sub>
 
-[![GitHub followers](https://img.shields.io/github/followers/mohamedazarudeen?style=for-the-badge&logo=github&color=9644F4)](https://github.com/AzaRKazar/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedallabaksh/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedazarude.allabaksh@stonybrook.edu)
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react&logoColor=white)](https://azarkazar.github.io/mohamed-azar-portfolio/)
+<br>
 
+### `01` — SELECTED SYSTEMS
 
-</div>
+| System | What it is | Built with |
+|---|---|---|
+| **[Investor Intelligence Platform](https://github.com/AzaRKazar/AI-Powered-Investor-Intelligence-Platform)** | Annual reports in, answers out — LLM KPI extraction with confidence-gated retries, plus hybrid keyword + vector RAG search over filings | `FastAPI` `React/TS` `Azure OpenAI` `LangGraph` `PostgreSQL` |
+| **[Support Ticket Triage — LLM Fine-tuning](https://github.com/AzaRKazar/support-ticket-triage-llm-finetuning)** | QLoRA fine-tune of Qwen2.5 / Llama-3.2 classifying support tickets across ~27 intents, trained and tracked on Azure ML | `QLoRA` `Hugging Face` `Azure ML` `MLflow` |
+| **[Earnings-Call Evasiveness Detector](https://github.com/AzaRKazar/earnings-call-evasiveness-detector)** | Fine-tuned small language model labeling executive answers *Direct / Partial / Evasive* on human-reviewed transcript data | `QLoRA` `SLM` `NLP` |
+| **[Blog → Podcast Agent](https://github.com/AzaRKazar/blog_to_podcast_agent)** | Paste a URL, get a narrated episode — scraped, summarized by a local LLM, and voiced live, end to end | `FastAPI` `SQLite` `Next.js` `TypeScript` `TTS` |
+| **[Customer Support Voice Agent](https://github.com/AzaRKazar/customer_support_voice_agent)** | Local RAG support assistant with cited answers, hallucination safeguards, auto-ticketing on low confidence, and spoken replies | `Ollama` `Qdrant` `FastAPI` `Streamlit` |
+| **[GitHub MCP Agent](https://github.com/AzaRKazar/github_mcp_agent)** | Explore and analyze any repo in natural language — an MCP GitHub server driven by local Ollama reasoning | `MCP` `Ollama` `Streamlit` |
+| **[AI Breakup Recovery Companion](https://github.com/AzaRKazar/ai_breakup_recovery_agent)** | Privacy-first wellness app — four specialized local agents, OCR chat-screenshot analysis, zero cloud calls | `Ollama` `Multi-agent` `OCR` |
+| **[Athlete Injury Risk Analyzer](https://github.com/AzaRKazar/Athlete-Injury-Risk-Analyzer)** | Biomechanical symmetry metrics → injury-risk classes; Random Forest vs SMOTE / SMOTEENN, with hypothesis testing | `scikit-learn` `imbalanced-learn` |
 
-<div align="center">
-  
-```css
-⚡ DATA SCIENCE ARCHMAGE CHARACTER SHEET ⚡
-```
-  
-</div>
+<br>
 
-```javascript
-class DataScienceArchmage {
-    readonly name = "Mohamed Azarudeen Allabaksh";
-    readonly title = "Data Science & AI Engineering Architect";
-    readonly level = 25; // Leveled up!
-    readonly location = "Stony Brook, NY";
-    readonly alignment = "Chaotic Good";
-    
-    readonly powerStats = {
-        dataScience: "Crafting intelligent models that transform business challenges into opportunities",
-        aiEngineering: "Architecting scalable ML systems with enterprise-grade reliability and security",
-        deepLearning: "Designing neural networks that see beyond the obvious and predict the unpredictable",
-        dataEngineering: "Building robust data pipelines that turn raw information into actionable intelligence"
-    };
-    
-    readonly specialAbilities = [
-        "LLM Optimization & Fine-tuning",
-        "Advanced Computer Vision Systems",
-        "Predictive Analytics at Scale",
-        "MLOps & Continuous Integration",
-        "Explainable AI Implementation"
-    ];
-    
-    getCurrentQuest() {
-        return "Mastering the Forbidden Arts of Quantum Machine Learning";
-    }
-    
-    getFavoriteSpell() {
-        return "Tensor Transformation: Converts high-dimensional chaos into ordered insights";
-    }
-}
-```
+### `02` — STACK
 
-<div align="center">
-  
-## 🏆 LEGENDARY ACHIEVEMENTS 🏆
+**Languages**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-0a0a0b?style=flat-square&logo=python&logoColor=ff4d00)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0b?style=flat-square&logo=typescript&logoColor=ff4d00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0b?style=flat-square&logo=javascript&logoColor=ff4d00)
+![SQL](https://img.shields.io/badge/SQL-0a0a0b?style=flat-square)
 
-</div>
+**AI / ML**&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0b?style=flat-square&logo=pytorch&logoColor=ff4d00)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0a0a0b?style=flat-square&logo=huggingface&logoColor=ff4d00)
+![QLoRA](https://img.shields.io/badge/QLoRA-0a0a0b?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-0a0a0b?style=flat-square&logo=ollama&logoColor=ff4d00)
+![RAG](https://img.shields.io/badge/RAG-0a0a0b?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0a0a0b?style=flat-square&logo=langgraph&logoColor=ff4d00)
+![MCP](https://img.shields.io/badge/MCP-0a0a0b?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-0a0a0b?style=flat-square&logo=qdrant&logoColor=ff4d00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0b?style=flat-square&logo=scikitlearn&logoColor=ff4d00)
+![MLflow](https://img.shields.io/badge/MLflow-0a0a0b?style=flat-square&logo=mlflow&logoColor=ff4d00)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="30px" alt="AI"/><br />
-      <b>AI Conjurer</b><br />
-      <i>Improved NLP insights by 40% with custom LLAMA models</i>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/brain-3.png" width="30px" alt="ML"/><br />
-      <b>ML Grandmaster</b><br />
-      <i>99% accurate image classification with transformer architecture</i>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/system-task.png" width="30px" alt="System"/><br />
-      <b>System Architect</b><br />
-      <i>Optimized ML pipelines reducing inference time by 70%</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/cctv.png" width="30px" alt="Vision"/><br />
-      <b>Vision Sage</b><br />
-      <i>95% accurate social distancing monitoring system</i>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/workflow.png" width="30px" alt="Workflow"/><br />
-      <b>DevOps Warlock</b><br />
-      <i>Automated deployment pipeline with 99.9% uptime</i>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="30px" alt="Analytics"/><br />
-      <b>Predictive Oracle</b><br />
-      <i>98% accurate athlete performance prediction model</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/microchip.png" width="30px" alt="Edge"/><br />
-      <b>Edge AI Pioneer</b><br />
-      <i>Deployed ML models on IoT devices with 80% reduced latency</i>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/database-restore.png" width="30px" alt="Data"/><br />
-      <b>Data Alchemist</b><br />
-      <i>Transformed raw data into 3x ROI for business stakeholders</i>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/cyber-security.png" width="30px" alt="Security"/><br />
-      <b>Security Sentinel</b><br />
-      <i>Implemented ML-based anomaly detection with 99.5% accuracy</i>
-    </td>
-  </tr>
-</table>
+**Backend & Data**&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0b?style=flat-square&logo=fastapi&logoColor=ff4d00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0b?style=flat-square&logo=postgresql&logoColor=ff4d00)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0b?style=flat-square&logo=sqlite&logoColor=ff4d00)
+![Azure](https://img.shields.io/badge/Azure-0a0a0b?style=flat-square)
 
-<div align="center">
-  
-<div align="center">
-  
-## ⚔️ BATTLE ARSENAL ⚔️
+**Frontend**&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-0a0a0b?style=flat-square&logo=react&logoColor=ff4d00)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0b?style=flat-square&logo=nextdotjs&logoColor=ff4d00)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0b?style=flat-square&logo=tailwindcss&logoColor=ff4d00)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0b?style=flat-square&logo=streamlit&logoColor=ff4d00)
 
-</div>
+<br>
 
-<div align="center">
-  
-### 🧠 ML & AI
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-</p>
+### `03` — STATS
 
-### 🚀 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzaRKazar&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=ff4d00&text_color=eae6dd&icon_color=ff4d00&hide_rank=false" alt="GitHub stats">
+<img height="170" src="https://streak-stats.demolab.com/?user=AzaRKazar&hide_border=true&background=0a0a0b&ring=ff4d00&fire=ff4d00&currStreakLabel=ff4d00&currStreakNum=eae6dd&sideLabels=eae6dd&sideNums=eae6dd&dates=8f8c84" alt="GitHub streak">
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
+<br>
 
-### 🔄 Big Data
-<p align="center">
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-</p>
+### `04` — CONTRIBUTIONS, EATEN
 
-### 🛠️ Data Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prefect-3ECF8E?style=for-the-badge&logo=prefect&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dagster-331C4D?style=for-the-badge&logo=dagster&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzaRKazar/AzaRKazar/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/AzaRKazar/AzaRKazar/output/github-snake-light.svg" alt="Snake animation eating the contribution graph">
+</picture>
 
-### 📊 Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
+<br>
 
-</div>
-
-<div align="center">
-  
-## 💫 POWER LEVELS 💫
-
-</div>
-
-<div align="center">
-
-| Core Data Science Powers | | |
-|:------------------------:|:-----------------:|:-----:|
-| Machine Learning         | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 95% |
-| Deep Learning            | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 90% |
-| NLP & LLMs               | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 90% |
-| Computer Vision          | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 90% |
-| Data Engineering         | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 85% |
-| MLOps & Deployment       | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 85% |
-| Statistical Analysis     | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 85% |
-| Cloud Infrastructure     | ⬜⬜⬜⬜⬜⬜⬜⚪⚪ | 80% |
-| Quantum ML               | ⬜⬜⬜⬜⬜⬜⚪⚪⚪ | 70% |
-
-| Special Abilities | | |
-|:-----------------:|:-----------------:|:-----:|
-| Problem Solving          | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 100% |
-| Learning Agility         | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 95% |
-| Team Collaboration       | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 90% |
-| Automation               | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 90% |
-| Solution Architecture    | ⬜⬜⬜⬜⬜⬜⬜⬜⚪ | 90% |
-
-</div>
-
-<div align="center">
-  
-## 🎯 CURRENT QUESTS 🎯
-
-</div>
-
-<div align="center">
-  
-| Quest | Description | Status | XP |
-|:-----:|:------------|:------:|:---:|
-| <img src="https://img.icons8.com/color/48/000000/brain.png" width="25px" alt="Brain"/> | **LLM Fine-tuning Mastery**: Developing domain-specific adaptations of foundation models | 🔄 In Progress | 750/1000 |
-| <img src="https://img.icons8.com/color/48/000000/speed.png" width="25px" alt="Speed"/> | **Real-time ML Inference**: Building ultra-low latency prediction systems | 🔄 In Progress | 680/1000 |
-| <img src="https://img.icons8.com/color/48/000000/track-and-field.png" width="25px" alt="Track"/> | **Athlete Performance Prediction**: Creating AI systems for sports analytics | 🔄 In Progress | 820/1000 |
-| <img src="https://img.icons8.com/color/48/000000/quantum.png" width="25px" alt="Quantum"/> | **Quantum ML Research**: Exploring quantum computing applications in ML | 🚀 Just Started | 150/1000 |
-| <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="25px" alt="AI"/> | **Multimodal AI Systems**: Building models that understand text, vision, and audio | 🔄 In Progress | 450/1000 |
-
-</div>
-
-<div align="center">
-  
-## ⚡ TECH MASTERY SAGA ⚡
-
-</div>
-
-<div align="center">
-
-### 📜 Chronicles of Innovation 📜
-
-```python
-def journey_so_far():
-    return [
-        "Architected end-to-end ML pipelines that reduced model training time by 65%",
-        "Deployed computer vision systems for medical image analysis with 95% accuracy",
-        "Implemented NLP solutions that saved 2,000+ hours of manual document processing",
-        "Built real-time recommendation engines that increased customer engagement by 40%",
-        "Designed distributed processing systems handling 10TB+ daily data volume",
-        "Optimized cloud infrastructure reducing operational costs by 30%",
-        "Developed automated ML testing framework with 99.5% reliability",
-        "Created custom neural network architectures for unique business challenges"
-    ]
-```
-
-</div>
-
-<div align="center">
-  
-## 🌟 STATS & METRICS 🌟
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedazarudeen&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=9644F4&text_color=c9d1d9&bg_color=0d1117" alt="Mohamed Azarudeen's GitHub Stats" /> 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedazarudeen&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00FF00&fire=9644F4&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedazarudeen&theme=matrix&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  
-## 💬 WISDOM SCROLLS 💬
-
-> "The true value of AI lies not in what it can do, but in how it augments human potential."
-
-> "Data without context is just numbers; data with context is knowledge."
-
-> "The best models are built not just with code, but with deep understanding of the domain."
-
-> "Automation should free humans to be more human, not replace their humanity."
-
-> "Every data point tells a story; a data scientist's job is to be the storyteller."
-
-</div>
-
-<div align="center">
-  
-## 🔗 JOIN MY GUILD 🔗
-
-<a href="https://github.com/AzaRKazar/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mohamedallabaksh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:mohamedazarude.allabaksh@stonybrook.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/YourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://YourMediumBlog.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-
-</div>
-
-<div align="center">
-  
-![Visitor Counter](https://komarev.com/ghpvc/?username=mohamedazarudeen&style=for-the-badge&color=9644F4)
-
-</div>
-
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer" />
-
-</div>
-
-
-
+<sub>LOCAL-FIRST AI · AGENTS · RAG · LLM FINE-TUNING · END-TO-END SYSTEMS — [azarkazar.github.io/mohamed-azar-portfolio](https://azarkazar.github.io/mohamed-azar-portfolio/)</sub>

@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1200 320" width="1200" height="320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mohamed Azarudeen — Software Engineer and AI Systems Builder">
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.03 0"/>
+    </filter>
+    <radialGradient id="glow" cx="88%" cy="10%" r="80%">
+      <stop offset="0%" stop-color="#ff4d00" stop-opacity="0.12"/>
+      <stop offset="55%" stop-color="#ff4d00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="14" fill="#eae6dd"/>
+  <rect width="1200" height="320" rx="14" fill="url(#glow)"/>
+
+  <!-- hairlines -->
+  <line x1="60" y1="72" x2="1140" y2="72" stroke="#0a0a0b" stroke-opacity="0.14" stroke-width="1"/>
+  <line x1="60" y1="258" x2="1140" y2="258" stroke="#0a0a0b" stroke-opacity="0.14" stroke-width="1"/>
+
+  <!-- top row -->
+  <text x="60" y="52" font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="14" letter-spacing="3" fill="#6b6960">MOHAMED AZARUDEEN — NEW YORK, USA</text>
+  <text x="1140" y="52" text-anchor="end" font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="14" letter-spacing="3" fill="#e04400">REEL 00 — PROFILE</text>
+
+  <!-- headline -->
+  <text x="57" y="152" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="74" font-weight="700" letter-spacing="-1.5" fill="#0a0a0b">SOFTWARE ENGINEER</text>
+  <text x="57" y="232" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="74" font-weight="700" letter-spacing="-1.5" fill="#0a0a0b">&amp; AI SYSTEMS <tspan font-family="Georgia,'Times New Roman',serif" font-style="italic" font-weight="400" fill="#e04400" font-size="70">builder</tspan></text>
+
+  <!-- bottom row -->
+  <text x="60" y="292" font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="13" letter-spacing="2.5" fill="#6b6960">LOCAL-FIRST AI · AGENTS · RAG · LLM FINE-TUNING · END-TO-END SYSTEMS</text>
+  <text x="1140" y="292" text-anchor="end" font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="13" letter-spacing="2.5" fill="#6b6960">MS CS @ STONY BROOK</text>
+
+  <!-- accent tick -->
+  <rect x="60" y="270" width="44" height="2" fill="#e04400"/>
+
+  <rect width="1200" height="320" rx="14" filter="url(#grain)"/>
+</svg>
