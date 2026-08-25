@@ -115,38 +115,67 @@ I build AI systems **end to end** — the pipeline, the model integration, the A
 ### `02` — STACK
 
 ![Languages](https://img.shields.io/badge/LANGUAGES-ff4d00?style=flat-square)
-
 ![Python](https://img.shields.io/badge/Python-0a0a0b?style=for-the-badge&logo=python&logoColor=ff4d00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0b?style=for-the-badge&logo=typescript&logoColor=ff4d00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0b?style=for-the-badge&logo=javascript&logoColor=ff4d00)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0b?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-0a0a0b?style=for-the-badge&logo=go&logoColor=ff4d00)
+![Rust](https://img.shields.io/badge/Rust-0a0a0b?style=for-the-badge&logo=rust&logoColor=ff4d00)
+![Java](https://img.shields.io/badge/Java-0a0a0b?style=for-the-badge&logo=openjdk&logoColor=ff4d00)
+![Bash](https://img.shields.io/badge/Bash-0a0a0b?style=for-the-badge&logo=gnubash&logoColor=ff4d00)
+![C++](https://img.shields.io/badge/C++-0a0a0b?style=for-the-badge&logo=cplusplus&logoColor=ff4d00)
 
 ![AI / ML](https://img.shields.io/badge/AI%20/%20ML-ff4d00?style=flat-square)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0b?style=for-the-badge&logo=pytorch&logoColor=ff4d00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0b?style=for-the-badge&logo=tensorflow&logoColor=ff4d00)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0a0a0b?style=for-the-badge&logo=huggingface&logoColor=ff4d00)
 ![QLoRA](https://img.shields.io/badge/QLoRA-0a0a0b?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-0a0a0b?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-0a0a0b?style=for-the-badge&logo=ollama&logoColor=ff4d00)
 ![RAG](https://img.shields.io/badge/RAG-0a0a0b?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0b?style=for-the-badge&logo=langchain&logoColor=ff4d00)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0a0a0b?style=for-the-badge&logo=langgraph&logoColor=ff4d00)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0a0a0b?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-0a0a0b?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0a0a0b?style=for-the-badge&logo=openai&logoColor=ff4d00)
+![Anthropic Claude](https://img.shields.io/badge/Claude-0a0a0b?style=for-the-badge&logo=anthropic&logoColor=ff4d00)
 ![Qdrant](https://img.shields.io/badge/Qdrant-0a0a0b?style=for-the-badge&logo=qdrant&logoColor=ff4d00)
+![Pinecone](https://img.shields.io/badge/Pinecone-0a0a0b?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0a0a0b?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0b?style=for-the-badge&logo=scikitlearn&logoColor=ff4d00)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0b?style=for-the-badge&logo=numpy&logoColor=ff4d00)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0b?style=for-the-badge&logo=pandas&logoColor=ff4d00)
 ![MLflow](https://img.shields.io/badge/MLflow-0a0a0b?style=for-the-badge&logo=mlflow&logoColor=ff4d00)
+![Weights & Biases](https://img.shields.io/badge/W%26B-0a0a0b?style=for-the-badge&logo=weightsandbiases&logoColor=ff4d00)
+
+![Cloud & DevOps](https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-ff4d00?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0a0a0b?style=for-the-badge&logo=microsoftazure&logoColor=ff4d00)
+![AWS](https://img.shields.io/badge/AWS-0a0a0b?style=for-the-badge&logo=amazonaws&logoColor=ff4d00)
+![GCP](https://img.shields.io/badge/GCP-0a0a0b?style=for-the-badge&logo=googlecloud&logoColor=ff4d00)
+![Docker](https://img.shields.io/badge/Docker-0a0a0b?style=for-the-badge&logo=docker&logoColor=ff4d00)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0b?style=for-the-badge&logo=kubernetes&logoColor=ff4d00)
+![Terraform](https://img.shields.io/badge/Terraform-0a0a0b?style=for-the-badge&logo=terraform&logoColor=ff4d00)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0a0a0b?style=for-the-badge&logo=githubactions&logoColor=ff4d00)
+![Nginx](https://img.shields.io/badge/Nginx-0a0a0b?style=for-the-badge&logo=nginx&logoColor=ff4d00)
 
 ![Backend & Data](https://img.shields.io/badge/BACKEND%20%26%20DATA-ff4d00?style=flat-square)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0b?style=for-the-badge&logo=fastapi&logoColor=ff4d00)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0b?style=for-the-badge&logo=nodedotjs&logoColor=ff4d00)
+![Express](https://img.shields.io/badge/Express-0a0a0b?style=for-the-badge&logo=express&logoColor=ff4d00)
+![GraphQL](https://img.shields.io/badge/GraphQL-0a0a0b?style=for-the-badge&logo=graphql&logoColor=ff4d00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0b?style=for-the-badge&logo=postgresql&logoColor=ff4d00)
 ![SQLite](https://img.shields.io/badge/SQLite-0a0a0b?style=for-the-badge&logo=sqlite&logoColor=ff4d00)
-![Azure](https://img.shields.io/badge/Azure-0a0a0b?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0b?style=for-the-badge&logo=mongodb&logoColor=ff4d00)
+![Redis](https://img.shields.io/badge/Redis-0a0a0b?style=for-the-badge&logo=redis&logoColor=ff4d00)
+![Kafka](https://img.shields.io/badge/Kafka-0a0a0b?style=for-the-badge&logo=apachekafka&logoColor=ff4d00)
+![Airflow](https://img.shields.io/badge/Airflow-0a0a0b?style=for-the-badge&logo=apacheairflow&logoColor=ff4d00)
 
 ![Frontend](https://img.shields.io/badge/FRONTEND-ff4d00?style=flat-square)
-
 ![React](https://img.shields.io/badge/React-0a0a0b?style=for-the-badge&logo=react&logoColor=ff4d00)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0b?style=for-the-badge&logo=nextdotjs&logoColor=ff4d00)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0b?style=for-the-badge&logo=tailwindcss&logoColor=ff4d00)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0b?style=for-the-badge&logo=streamlit&logoColor=ff4d00)
+![Vite](https://img.shields.io/badge/Vite-0a0a0b?style=for-the-badge&logo=vite&logoColor=ff4d00)
 
 <br>
 
